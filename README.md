@@ -1,4 +1,4 @@
-# PetConnect
+# Getmypet
 
 This is a full-stack application with a monorepo structure. It consists of a ReactJS frontend using Redux for state management and a Node.js backend with Express.
 
