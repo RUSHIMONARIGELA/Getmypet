@@ -78,4 +78,4 @@ This is a full-stack application with a monorepo structure. It consists of a Rea
 
     Feel free to contribute by submitting issues or pull requests.
 
-# Thank you ;)
+# Thank you )
